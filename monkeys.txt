@@ -1,0 +1,11 @@
+Name	Years	Tasks
+Maggie	0.4	23
+Cleo	0.5	15
+Peepers	1.5	23
+Jo	5	27
+Jeep	0.5	6
+Henri	6	28
+SuSu	6.5	28
+Freeway	8	24
+Hellion	10	28
+Mary	7	26
